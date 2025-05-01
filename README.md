@@ -1,0 +1,1 @@
+# Othello-AI-HW2-practical
